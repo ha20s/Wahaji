@@ -1,0 +1,234 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "AquariusDes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : " نجمة ذات الكرسي "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Queen-Cassiopeia ImageNorthern zodiac constellation near Capricorn, resembling water waves or a figure pouring from a bucket."
+          }
+        }
+      }
+    },
+    "AquariusStar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نجم الدلو"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aquarius"
+          }
+        }
+      }
+    },
+    "aries" : {
+
+    },
+    "cancer" : {
+
+    },
+    "canis-major" : {
+
+    },
+    "CrowDes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كوكبة صغيرة في النصف الجنوبي من السماء، وسمّيت بذلك لأنها تصور شكل غراب . ومن ألمع النجوم في هذه الكوكبة: جاما ودلتا و إبسيلون و بيتا كورفي، والتي تشكل رباعيًا مميزا في سماء الليل."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Southern constellation resembling a crow, housing bright stars like Gamma, Delta, Epsilon, and Beta Corvi, forming a distinct quadrilateral."
+          }
+        }
+      }
+    },
+    "CrowStar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نجم الغراب"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crow"
+          }
+        }
+      }
+    },
+    "Error: Star not found" : {
+
+    },
+    "Gemini" : {
+
+    },
+    "harp" : {
+
+    },
+    "KeyintroductionStatement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ثمة قولاً متناقلاً بين علماء الفلك\n\n يقول إن عدد النجوم في الكون\n\n يزيد عن عدد حبات الرمل في كلّ\n \nشواطئ العالم مجتمعة\n"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There is a saying passed down among astronomers\n\nit says the number of stars in the universe\n\nmore than the number of grains of sand in each\n \nbeaches of the world combined"
+          }
+        }
+      }
+    },
+    "navigationIntoCategories" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إبدأ رحلتك"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start your journey "
+          }
+        }
+      }
+    },
+    "NorthButton%lld" : {
+
+    },
+    "NorthStars" : {
+
+    },
+    "NourthStars" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النجوم الشمالية"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "North Stars"
+          }
+        }
+      }
+    },
+    "QueenDes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "من أبراج النصف الشمالي للكرة الأرضية، يظهر طوال العام ولفترات طويلة، ومن أهم النجوم الموجودة فيها: ظهر الناقة و الركبة. وسميت بهذا الأسم لأنها تشبه صورة إمرأة تجلس على كرسي."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prominent Northern Hemisphere constellation, visible year-round, features key stars like the camel's back and knee. Named for its resemblance to\n a woman sitting on a chair"
+          }
+        }
+      }
+    },
+    "QueenStar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ذات الكرسي"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Queen-Cassiopeia"
+          }
+        }
+      }
+    },
+    "SouthStars" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النجوم الجنوبية"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "South Stars"
+          }
+        }
+      }
+    },
+    "TaurusDes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كوكبة من النصف الجنوبي في السماء، ومن ألمع نجومه الدبران. وسميّ بذلك لأنه يشبه شكل ثور."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Southern constellation with Aldebaran as one of its brightest stars, named for its bull-like shape."
+          }
+        }
+      }
+    },
+    "TaurusStar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نجم الثور"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taurus"
+          }
+        }
+      }
+    },
+    "triangulum-australe" : {
+
+    }
+  },
+  "version" : "1.0"
+}
